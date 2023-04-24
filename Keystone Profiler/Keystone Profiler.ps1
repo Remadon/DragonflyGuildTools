@@ -1,5 +1,5 @@
 ﻿# Keystone Profiler
-# v1.0  4/9/2023 | Hathlo of Wyrmrest Accord | Dragonfly
+# v1.1  4/23/2023 | Hathlo of Wyrmrest Accord | Dragonfly
 # Designed for World of Warcraft / Raider.IO API 8/9/2022
 # A set of functions and code to pull keystone data from the raider.io API and format accordingly.
 
@@ -14,6 +14,7 @@
 #					$ SaveLocation - For configuring a path to save the report
 #					$ SaveName - For configuring the name of the report file
 #				  Implemented a Summary page in the report data. This will show relevant data about the character we got data for, such as name, realm, and other things.
+# v1.1 4/23/2023 - Implemented some formatting and underlining to make links on the summary page more apperant, and added a link back to the summary page in each character page.
 
 # Todo:
 # - Split the creation of $Array objects into a sperate function and get rid of some of this spheggeti code.
