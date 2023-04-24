@@ -1,6 +1,7 @@
 Keystone Profiler
 
-This script is writtin in PowerShell and is intended for use in Microsoft Windows systems. Your Milage May Vary in other environments, the maintainers of this repository provide no gurantee or warenty of functionality, nor liability of what may happen in unexpected cases. 
+This script is writtin in PowerShell and is intended for use in Microsoft Windows systems. Your Milage May Vary in other environments. 
+You agree to the terms listed in the LICENSE file in the root of the DragonflyGuildTools repository, it's the unlicense.
 
 We utiilize the ImportExcel module, you can read more about that here: https://github.com/dfinke/ImportExcel
 
