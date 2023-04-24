@@ -13,3 +13,5 @@ vegor,zuljin
 Will result in the script pulling data for those characters from those realms. The script will then create an excel spreadsheet containing a summary cover sheet, and sheets with detailed data for each player. 
 
 You can see a sample Keystone report in the Sample Files directory, as well.
+
+The tool utilizes RaiderIO, if you are receiving stale data or incorrect data, please ensure that character has been updated on the platform, as you may be receiving incomplete or out of data data from the API.
