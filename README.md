@@ -1,4 +1,4 @@
-# DragonflyGuildTools
+# Dragonfly Guild Tools
 Tools created for Dragonfly of Wyrmrest Accord
 
 Current Tools included in this repository:
